@@ -1,7 +1,7 @@
 # Project Name
 NOVATERRA ONG
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Novaterra/TarjetasNovaterraCatering/master/dise%C3%B1o.png" width="600"/>
+  <img src="https://github.com/Novaterra/MarcalibrosNovaterraCatering/blob/master/dise%C3%B1o.png" width="600"/>
 </p>
 
 DISEÑO GRAFICO: Marca libros de Novaterra Catering Noviembre 2015 y anteriores
